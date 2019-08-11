@@ -1,0 +1,6 @@
+/cast [@mouseover, help, self, nodead] Rejuvenation; [@target, harm, nodead] Moonfire; Rejuvenation
+
+#showtooltip Swiftmend
+/cast [@mouseover, help, self, nodead] Swiftmend; [@target, harm, nodead] Starsurge; Swiftmend
+
+/cast [@mouseover, help, self, nodead] Regrowth; [@target, harm, nodead] Sunfire; Regrowth
